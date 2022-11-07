@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @J43fura.
+- 👀 I’m currently interested in Music theory. 
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on converting sheet musical notes to MIDI files using AI.
+- 📫 How to reach me : Discord: J43fura#5272
+
+<!---
+J43fura/J43fura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
