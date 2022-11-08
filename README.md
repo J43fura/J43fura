@@ -5,6 +5,6 @@
 - 📫 Reach me on Discord: J43fura#5272
 
 <!---
-J43fura/J43fura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ J43fura/J43fura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ You can click the Preview link to take a look at your changes.
 --->
