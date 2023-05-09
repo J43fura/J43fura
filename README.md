@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J43fura.
 - 👀 I’m currently interested in Music theory🎵 and Reverse Engineering👨‍🔧. 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Vue.
 - 💞️ I’m looking to collaborate on converting sheet musical notes to MIDI files using AI🤖.
 - 📫 Reach me on Discord: J43fura#5272
 
