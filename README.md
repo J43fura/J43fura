@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J43fura.
 - 👀 I’m currently interested in Music theory🎵 and Reverse Engineering👨‍🔧. 
 - 🌱 I’m currently learning Music theory & Svelte.
-- 💞️ I’m looking to collaborate on converting sheet musical notes to MIDI files using AI🤖.
+- 💞️ I’m looking to collaborate on converting sheet musical notes to MIDI files using ML🤖.
 - 📫 Reach me on Discord: J43fura#5272
 
 <div align="center">
