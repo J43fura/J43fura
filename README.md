@@ -5,7 +5,7 @@
 - 📫 Reach me on Discord: J43fura#5272
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=J43fura&theme=transparent&card_width=700&fire=EB6031&background=45%2C46AFEB43%2CEB69693E&stroke=EB5454&ring=EB5454&border=EB545469&currStreakNum=3D7BEB&sideNums=3D7BEB&sideLabels=EB5454&currStreakLabel=EB5454&dates=3D7BEB&excludeDaysLabel=EB5454"/>
+   <img src="https://github-readme-streak-stats-omn7fea9f-j43furas-projects.vercel.app/?user=J43fura&theme=transparent&card_width=700&fire=EB6031&background=45%2C46AFEB43%2CEB69693E&stroke=EB5454&ring=EB5454&border=EB545469&currStreakNum=3D7BEB&sideNums=3D7BEB&sideLabels=EB5454&currStreakLabel=EB5454&dates=3D7BEB&excludeDaysLabel=EB5454"/>
 </div>
 
 <!---
